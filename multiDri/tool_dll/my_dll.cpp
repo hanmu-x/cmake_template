@@ -2,14 +2,14 @@
 #include "my_dll.h"
 
 
-myDLL::myDLL()
+myDll::myDll()
 {
-	std::cout << "start myDLL" << std::endl;
+	std::cout << "start myDll" << std::endl;
 }
 
-myDLL::~myDLL()
+myDll::~myDll()
 {
-	std::cout << "end myDLL" << std::endl;
+	std::cout << "end myDll" << std::endl;
 }
 
 

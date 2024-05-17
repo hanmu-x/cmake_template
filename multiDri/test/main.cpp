@@ -6,7 +6,7 @@
 int main()
 {
 	myLib test_lib;
-	myDLL test_dll;
+	myDll test_dll;
 
 	return 0; 
 }

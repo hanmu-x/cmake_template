@@ -2,11 +2,11 @@
 #include <iostream>
 #include <string>
 
-class myDLL
+class myDll
 {
 public:
-	myDLL();
-	~myDLL();
+	myDll();
+	~myDll();
 
 private:
 
